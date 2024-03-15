@@ -1,0 +1,56 @@
+{
+  "itens": [
+    {
+      "id": 1,
+      "item": "multiprocessador de alimentos(cor linha preta)"
+    },
+    {
+      "id": 2,
+      "item": "batedeira (cor linha preta)"
+    },
+    {
+      "id": 3,
+      "item": "sanduicheira (cor linha preta)"
+    },
+    {
+      "id": 4,
+      "item": "air fryer (cor linha preta)"
+    },
+    {
+      "id": 5,
+      "item": "ventilador turbo (cor linha preta)"
+    },
+    {
+      "id": 6,
+      "item": "ferro elétrico (cor linha preta)"
+    },
+    {
+      "id": 7,
+      "item": "purificador de água elétrico esmaltec"
+    },
+    {
+      "id": 8,
+      "item": "microondas"
+    },
+    {
+      "id": 9,
+      "item": "aspirador de pó"
+    },
+    {
+      "id": 10,
+      "item": "Fogão 5 bocas com forno e tampa de vidro inox"
+    },
+    {
+      "id": 11,
+      "item": "Máquina de lavar 12Kg"
+    },
+    {
+      "id": 12,
+      "item": "Geladeira"
+    },
+    {
+      "id": 13,
+      "item": "TV 55 polegadas (Marca LG)"
+    }
+  ]
+}
